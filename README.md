@@ -1,4 +1,4 @@
-# Semantic Image Segmentation
+# Semantic Image Segmentation with SPADE
 
 Convert landscape doodles to realistic images.
 
